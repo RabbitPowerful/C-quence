@@ -1,0 +1,69 @@
+Q.1) What are the Types of Control Statements?
+1. Decision-Taking and Loop Making
+2. Decision-Giving and Loop Taking
+3. Decision-Making and Loop Statements 
+4.Decision-Making and Loop Control
+Correct Option: 3
+
+Q.2) Which C control statement is used to execute a block of code repeatedly as long as a specified condition is true?
+1.if statement
+2.switch statement
+3.for loop
+4.do-while loop
+Correct Option: 4
+
+Q.3) Which C statement allows looping as long as a condition is true?
+1.while
+2.if
+3.switch
+4.for
+Correct Option: 1
+
+Q.4) Why if...else statement is used in C Programming?
+1. To use if statements
+2. To perform actions when there are only two possible options(True or False)
+3. To execute False body
+4.To execute True and False body
+Correct Option: 2
+
+Q.5) Can an else statement exist without a corresponding if statement in nested if...else statements?
+1. No
+2. Yes
+3. May be
+4.None
+Correct Option: 1
+
+Q.6) How conditions are evaluated in all statements including if...else if statement ?
+1. From Bottom to Top
+2. As We Want
+3. From Right to Left or Left to Right
+4. From the Top to Bottom 
+Correct Option: 4
+
+Q.7) Why Iteration is used in control statement of C Programming?
+1. To Perform different  task for a number of times
+2. To Perform identical task for a number of times
+3. To Perform task 
+4.To perform numbers of task at once
+Correct Option: 4
+
+Q.8) Which is the syntax of for Loop?
+1. for(counter_intitialization; test_condition; increament or decreament) {statements; or body of loop;}
+2. for(counter_intitialization; test_condition; increament or decreament){statements or body of loop }
+3. for(counter_intitialization; test_condition; increament or decreament); {statements; or body of loop;}
+4.for(counter_intitialization; test_condition; increament or decreament); {statements; or body of loop}
+Correct Option: 1
+
+Q.9) Which of them are exit-controlled loop and entry controlled loop?
+1. do while loop and while loop
+2. while loop and do-while loop
+3. do-while loop and while loop
+4. for loop and while loop
+Correct Option: 3
+
+Q.10) Which statement is used for termination of testing condition and what is it's Syntax ?
+1. Stop statement and Stop("test_condition");
+2. Break Statement and Break;
+3. break Statement and break
+4.break Statement and break;
+Correct Option: 4

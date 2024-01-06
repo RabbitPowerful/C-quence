@@ -1,0 +1,69 @@
+Q.1) A Structure is 
+1. a derived data type
+2. a user-defined data type
+3. a stored data
+4. data
+Correct Option: 2
+
+Q.2) The multiple variables are declared as ?
+1. structure student st1, st2, st3
+2. structure stn st1,st2, st3
+3. struct student st1, st2, st3
+4. struct student 1, 2, 3
+Correct Option: 3                  
+
+Q.3)  How Structure is Initialized ?
+1. struct structure_name structure_variable = {value1, value2,........,valuen};
+2. struct structure_name structure_variable - {value1, value2,........,valuen};
+3. struct structure_namestructure_variable = {value1, value2,........,valuen}
+4. structure_name structure_variable = {value1, value2,........,valuen};
+Correct Option: 1
+
+Q.4) The multiple variables are declared as?
+1. structure student st1,st2,st3
+2. structure stn st1,st2,st3
+3. struct student st1,st2,st2
+4. struct student 1,2,3
+Correct Option: 3
+
+Q.5) Where is the structure elements are stored?
+1. Ontiguous Memory Loctions
+2. Struct Memory Loctions
+3. Array Memory Loctions
+4. Contiguous Memory Loctions
+Correct Option: 4
+
+Q.6) Pointer is converted to Structure by ?
+1. ptr_variable >member_name
+2. ptr_variable => member_name
+3.ptr_variable ->member_name;
+4. cannot be converted
+Correct Option: 3
+
+Q.7) Individual structure or the entire structure can be pass to function as its ?
+1.Value
+2.Argument
+3.return type
+4.Integer
+Correct Option: 2
+
+Q.8) In C, what is the purpose of a structure?
+1.To create dynamic memory allocation.
+2.To store multiple values of the same data type under a single variable name.
+3.To define new data types.
+4.To perform arithmetic operations.
+Correct Option: 2
+
+Q.9)  A list is
+1. A data arrangement 
+2. A set of items 
+3. A set of items organized sequentially
+4. Items arrangement 
+Correct Option: 1
+
+Q.10) Union can handle
+1. All members
+2. Many operation 
+3. Cannot 
+4. Only one member
+Correct Option: 4

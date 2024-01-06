@@ -1,0 +1,69 @@
+Q.1) What is the general storage bits for integers variable
+1. 12      
+2. 14
+3. 16     
+4. 18
+Correct Option: 3
+
+Q.2) For what kind of number floating point data type is used?
+1. Negative number      
+2. Fractional number
+3. Postive number       
+4. None
+Correct Option: 2
+
+Q.3) In character data type what is the range of value for signed and unsigned char respectively?
+1. -128 to 127 & 0-255   
+2. 0-126 & -10-200  
+3. -127 to 128 & -255-0   
+4. -125-125 & -255-250
+Correct Option: 1
+
+Q.4)Void type data has 
+1. Argument,no value     
+2. No argument,no value
+3. No argument,value       
+4. None of above
+Correct Option: 1
+
+Q.5)Which of the follwoing is character constant and string constant?
+1. A; and 'A'         
+2. "A" & 'A'
+3. 'A' & "A"          
+4. A & 'A'
+Correct Option: 3
+
+Q.6) What is the purpose of variables in C programming ?
+1. To support computer  
+2. To represent an item of data input by user
+3. To help compiler     
+4. To provide output
+Correct Option: 2
+
+Q.7) Double-precision floating point data type has the storage range of to give ta precision of digit?
+1. 4 bytes              
+2. 6byetes
+3. 8 bytes              
+4. 10bytes
+Correct Option: 4
+
+Q.8) What is the syntax of variable decleration?
+1.int(void);
+2.data_type variable_name1 variable_name2.....
+3.data-type variable_name1, variable_name2,...., variable_namen;
+4.datatype_variablename1,varaible-name2,......variablename n;
+Correct Option: 3
+
+Q.9) What is the sequence of the datatype ,variable and constants in (int temp=60)?
+1.Datatpe,constant and variable
+2.Datatype,variable and constant
+3.Variable,constant,datatype
+4.Constant,variable,datatype
+Correct Option: 2
+
+Q.10) What is the purpose of angle bracket(<>) int the proprocessor directices #include<stdio.h>?
+1.To give information about the output function
+2.To indicate that the file is to be found in usual place,system,department.
+3.For variable decleration
+4.For giving new line.
+Correct Option: 3

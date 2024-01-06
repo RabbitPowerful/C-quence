@@ -1,0 +1,69 @@
+Q.1) What are the mainly used data files ?
+1. Stream Oriented and System Oriented  
+2.High Level and Low Level
+3.Standard and Text fiels
+4.Both a and b
+Correct Option: 4
+
+Q.2) What is tge analogous for the character I/O getchar() and putchar() ?
+1. fgetc() and fputc()
+2. fputc() and fgetc()
+3. getc() and fetp()
+4. fgc() and fpc()
+Correct Option: 1
+
+Q.3) What kind of I/O is fscanf() and fprintf() ?
+1.Unfomatted I/O
+2.Formatted I/O
+3.Undo I/O
+4.Formatted-Unformatted I/O
+Correct Option: 2
+
+Q.4) The record I/O includes the functions ?
+1. read() and write()
+2. fr() and fwr()
+3. fread() and fwrite()
+4. None of above 
+Correct Option: 3
+
+Q.5) What is the syntax for data files to open ? 
+1.  ptr_variable = fopen(filename, filemode);
+2. ptr_variable = fopenfile_name, file_mode ;
+3. ptr_variable = fopen(file_name, file_mode);
+4. ptr_variable - fopen(file_name, file_mode);
+Correct Option: 3
+
+Q.6) In Data files they represent "r",  "w",  "a" 
+1. write, append, read
+2. read, write, and append
+3. append, write, and read
+4. read+write+append
+Correct Option: 2
+
+Q.7) Which of the following C library functions is used to open an existing file for reading or writing?
+1. fopen()
+2.fread()
+3.fprintf()
+4.fclose()
+Correct Option: 1
+
+Q.8) Which is the syntax of fprintf() ?
+1. fprintf(file_ptr_variable, "control string", list_variables);
+2.fprintf(file_ptr_variable, "control string", list_variables)
+3.fprintf (file_ptr_variable, control string , list_variables);
+4.fprintf(file_ptr_variable "control string" list_variables);
+Correct Option: 1
+
+Q.9) Which is the syntax of fread() ?
+1.fread(&ptr, size_of_array_or_structure, number_of_structure_or_array, fptr);
+2.fread(ptr, size_of_array_or_structure, number_of_structure_or_array, ptr);
+3.fread(&ptr, size_of_array_or_structure, number_of_structure_or_array, fptr)
+4.fread(&ptr, size_of_array_or_structure, number_of_structure_or_array, fptr);
+Correct Option: 4
+
+Q.no.10 How data files is closed ?
+1. Using library function fclose() fclose (ptr_variable);
+2. Using close;
+3. Using library function fclose() and syntax fclose(ptr_variable);
+4. close(&ptr_variable);
+Correct Option: 3
