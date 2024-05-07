@@ -1,4 +1,4 @@
-Q.1) What is the general storage bits for integers variable
+Q.1) What is the general storage bits for integers variables
 1. 12      
 2. 14
 3. 16     
